@@ -19,6 +19,7 @@
             }
             Console.WriteLine("k = {0}; Ak-1={1};Ak={2};k,A_2,A_3");
             Console.ReadLine();
+            //Хроменков 
         }
     }
 }
