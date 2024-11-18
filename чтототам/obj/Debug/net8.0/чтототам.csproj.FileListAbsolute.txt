@@ -1,0 +1,14 @@
+C:\Users\Shalk000\source\repos\чтототам\чтототам\bin\Debug\net8.0\чтототам.exe
+C:\Users\Shalk000\source\repos\чтототам\чтототам\bin\Debug\net8.0\чтототам.deps.json
+C:\Users\Shalk000\source\repos\чтототам\чтототам\bin\Debug\net8.0\чтототам.runtimeconfig.json
+C:\Users\Shalk000\source\repos\чтототам\чтототам\bin\Debug\net8.0\чтототам.dll
+C:\Users\Shalk000\source\repos\чтототам\чтототам\bin\Debug\net8.0\чтототам.pdb
+C:\Users\Shalk000\source\repos\чтототам\чтототам\obj\Debug\net8.0\чтототам.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shalk000\source\repos\чтототам\чтототам\obj\Debug\net8.0\чтототам.AssemblyInfoInputs.cache
+C:\Users\Shalk000\source\repos\чтототам\чтототам\obj\Debug\net8.0\чтототам.AssemblyInfo.cs
+C:\Users\Shalk000\source\repos\чтототам\чтототам\obj\Debug\net8.0\чтототам.csproj.CoreCompileInputs.cache
+C:\Users\Shalk000\source\repos\чтототам\чтототам\obj\Debug\net8.0\чтототам.dll
+C:\Users\Shalk000\source\repos\чтототам\чтототам\obj\Debug\net8.0\refint\чтототам.dll
+C:\Users\Shalk000\source\repos\чтототам\чтототам\obj\Debug\net8.0\чтототам.pdb
+C:\Users\Shalk000\source\repos\чтототам\чтототам\obj\Debug\net8.0\чтототам.genruntimeconfig.cache
+C:\Users\Shalk000\source\repos\чтототам\чтототам\obj\Debug\net8.0\ref\чтототам.dll

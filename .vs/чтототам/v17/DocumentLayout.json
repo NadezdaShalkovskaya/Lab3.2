@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shalk000\\source\\repos\\\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBEE3F9-2618-4911-A277-4F2C107FF7EE}|\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C\\\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C.csproj|c:\\users\\shalk000\\source\\repos\\\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C\\\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBEE3F9-2618-4911-A277-4F2C107FF7EE}|\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C\\\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C.csproj|solutionrelative:\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shalk000\\source\\repos\\\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C\\\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C\\Program.cs",
+              "RelativeDocumentMoniker": "\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C\\Program.cs",
+              "ToolTip": "C:\\Users\\Shalk000\\source\\repos\\\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C\\\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C\\Program.cs",
+              "RelativeToolTip": "\u0447\u0442\u043E\u0442\u043E\u0442\u0430\u043C\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:36:34.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
